@@ -46,8 +46,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pelsdev/pelsdev/output/snake.svg" alt="Snake animation" />
 
 ###
